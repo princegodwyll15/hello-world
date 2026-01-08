@@ -1,23 +1,18 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 {Hello World Program}
 
 {This software is to showcase the programming language im proficient in and creating a hello world program in that language}
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/bdb591ea18824aba9df69d7c9eefb2d8)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+{Used VS Code as IDE, .net framework 4.8 to help code in c#, github, git}
 
-{Describe the programming language that you used}
+{C# a high level programming language powered and supported by microsoft}
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
