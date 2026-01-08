@@ -1,0 +1,41 @@
+# Logs
+*.log
+*.bin
+*.pdb
+*.vs
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Runtime data
+*.vsapp
+*.vssettings
+*.vsmdi
+*.vspscc
+*.vssscc
+*.vstyp
+*.vsto
+*.vsp
+*.vsix
+*.vsixbundle
+
+# NuGet Packages
+**/packages/*
+!**/packages/repositories.config
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+obj/
+[Bb]uild/
+[Pp]ublish/
+*.pdb
+*.exe
+*.dll
+*.xml
+*.map
+*.scc
+*.cache
+*.suo
+*.
